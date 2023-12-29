@@ -1,0 +1,7 @@
+CREATE TABLE [dbo].[PatientDemographics] (
+    [PatientMRN] INT          NULL,
+    [FirstName]  VARCHAR (50) NULL,
+    [LastName]   VARCHAR (50) NULL,
+    [DOB]        VARCHAR (50) NULL,
+    [Gender]     VARCHAR (50) NULL)
+    

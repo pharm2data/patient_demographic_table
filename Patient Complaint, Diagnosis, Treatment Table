@@ -1,0 +1,5 @@
+CREATE TABLE [dbo].[PatientCondition] (
+    [Complaint] VARCHAR (50) NULL,
+    [Diagnosis] VARCHAR (50) NULL,
+    [Treatment] VARCHAR (50) NULL
+)
