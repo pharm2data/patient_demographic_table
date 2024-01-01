@@ -1,0 +1,9 @@
+INSERT INTO PatientDemographics VALUES
+('1001', 'Jane'	'Doe', '01-01-1945', 'Female'),
+('1002', 'John','Doe','01-21-1942','Male'),
+('1003', 'Peter', 'Smith', '05-12-1967','Male')
+('1004', 'David', 'Brown', '12-12-1954','Male'),
+('1005', 'Tiffany', 'Davis', '09-12-1967','Female'),
+('1006', 'Thomas', 'Moore', '04-27-1974','Male'),
+('1007', 'Sarah', 'Thompson', '06-12-1987','Female'),
+('1008', 'Margaret', 'Martin', '07-12-1937','Female')
