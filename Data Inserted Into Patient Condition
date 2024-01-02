@@ -1,0 +1,9 @@
+INSERT INTO Patient Condition
+('Chest Pain, 'Heart Attack', 'CABG', '1001'),
+('Abdominal Pain', 'Flu', 'Prescription for Tamiflu', '1002'),
+('Head Pain', 'Migraine', 'Prescription for Imitrex', '1003'),
+('Back Pain', 'Herniated Disc',	'Prescription for Norco, and Referral to Ortho', '1004'),
+('Flu-Like Symptoms', 'Flu', 'Prescription for Tamiflu', '1005'),
+('Cough (dry)',	'COVID-19', 'Discharge home for self care', '1006'),
+('EarAche',	'Ear Infection', 'Prescription for Ear Drops', '1007'),
+('Leg Pain', 'Broken Leg', 'Prescription for Oxycodone and Referral to Ortho', '1008')
