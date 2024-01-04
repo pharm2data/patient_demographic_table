@@ -1,0 +1,4 @@
+SELECT *
+FROM PatientDemographics
+INNER JOIN PatientCondition
+ON PatientDemographics.PatientMRN = PatientCondition.PatientMRN
