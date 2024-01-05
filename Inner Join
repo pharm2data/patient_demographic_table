@@ -1,4 +1,4 @@
 SELECT *
-FROM PatientDemographics
-INNER JOIN PatientCondition
-ON PatientDemographics.PatientMRN = PatientCondition.PatientMRN
+FROM dbo.PatientDemographics
+INNER JOIN dbo.PatientCondition
+ON master.dbo.PatientDemographics.PatientMRN = master.dbo.PatientCondition.Patient_MRN
