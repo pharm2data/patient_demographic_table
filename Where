@@ -1,0 +1,7 @@
+SELECT *
+FROM PatientDemographics
+WHERE Gender = 'Male'
+
+SELECT *
+FROM PatientDemographics
+WHERE Gender = 'Female'
